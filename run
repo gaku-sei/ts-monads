@@ -1,0 +1,1 @@
+tsc -t es5 --module commonjs index.ts && node index.js; rm *.js

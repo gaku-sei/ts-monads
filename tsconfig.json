@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": false
+    },
+    "files": [
+        "./index.ts",
+        "./match.ts",
+        "./maybe.ts",
+        "./option.ts"
+    ],
+    "exclude": [
+        "./definitions/**/*"
+    ]
+}
